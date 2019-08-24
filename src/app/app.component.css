@@ -1,0 +1,17 @@
+.container{
+    width: 90%;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    min-height: 115px;
+    display: flex;
+    justify-content: space-between
+}
+.box{
+    width: 45%;
+}
+#myTable{
+    width: 45%;
+}
+.width{
+    width: 100%;
+}
